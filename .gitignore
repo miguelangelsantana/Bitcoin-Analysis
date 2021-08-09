@@ -1,0 +1,13 @@
+# Private Files
+*.json
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
+
+# Mac/OSX
+.DS_Store
+
+# Distribution / packaging
+Other/
