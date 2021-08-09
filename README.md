@@ -11,7 +11,7 @@ This project will follow the OSEMN process: Obtain, Scrub, Explore, Model, Inter
 
 ### Project Variables
 
-![!](/images/data.jpg)
+![!](/images/data.png)
 
 #### Customer Interest / Data Imbalance
 
@@ -39,19 +39,33 @@ Light Gradient Boosting Machine offers a higher F1 score with similar accuracy a
 
 ### Model Analysis
 
+#### ROC Curve
+
 ![!](/images/ROC.png)
+
+#### Feature Importance
 
 ![!](/images/featimp.png)
 
+#### SHAP, Feature Interpretation
+
 ![!](/images/shap.png)
 
-## Interpret Variables, Customers that ARE interested
+## Observing variables in customers that are interested
+
+#### Interest by Age
 
 ![!](/images/agestat.jpg)
 
+#### Interest by Gender
+
 ![!](/images/genderstat.jpg)
 
+#### Interest by 'Previously Insured'
+
 ![!](/images/prev_ins.jpg)
+
+#### Interest by Vehicle Damage
 
 ![!](/images/veh_dam.jpg)
 
