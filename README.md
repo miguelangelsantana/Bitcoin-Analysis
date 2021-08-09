@@ -7,6 +7,8 @@ Author: Miguel Santana
 #### Project Methodology
 An insurance company provides health insurance to its customers. The client would like to build a model that predicts whether current customers would be interested in vehicle insurance provided by the company. The dataset includes customer demographic and vehicle information including gender, age, region, vehicle age, damage, policy premium and sourcing channel. 
 
+![!](/images/crosssell.jpg)
+
 This project will follow the OSEMN process: Obtain, Scrub, Explore, Model, Interpret. The Kaggle data set can be located [here.](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction)
 
 ### Project Variables
